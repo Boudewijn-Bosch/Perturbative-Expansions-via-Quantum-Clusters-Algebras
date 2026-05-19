@@ -1,4 +1,4 @@
-# Perturbative Expansions via-Quantum Clusters Algebras
+# Perturbed-Alexander invariant via quantum cluster algebras.
 We derive a perturbative expansion of knot invariants using quantum cluster algebras. This approach combines the Schrödinger representation of the quantum torus with quantum cluster mutation combinatorics. Explicit examples are worked out.
 
 This repository is based on the paper https://arxiv.org/abs/2603.15859.
