@@ -21,7 +21,7 @@ Boudewijn Bosch acknowledges support by the Dutch Research Council (NWO) under g
 ---
 
 ## What is this program?
-Using this program, a perturbed R-matrix is derived using the theory of quantum cluster algebras. The perturbed R-matrix can then be used to derive perturbed-Alexander polynomials using the perturbed Gaussian formalism provide in the Mathematica code due to Roland van der Veen and Dror Bar-Natan, available at https://www.rolandvdv.nl/PG/. The input is a Gauss code for a knot diagram, and the output is a perturbed-Alexander invariant.
+Using this program, a perturbed R-matrix is derived using the theory of quantum cluster algebras. The perturbed R-matrix can then be used to derive perturbed-Alexander polynomials using the perturbed Gaussian formalism provided in the Mathematica code due to Roland van der Veen and Dror Bar-Natan, available at https://www.rolandvdv.nl/PG/. The input is a Gauss code for a knot diagram, and the output is a perturbed-Alexander invariant.
 
 ---
 
