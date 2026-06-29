@@ -1,4 +1,4 @@
-# Perturbed-Alexanders invariant via quantum cluster algebras
+# Perturbed-Alexander invariants via quantum cluster algebras
 
 Mathematica program to derive a perturbative expansion of knot invariants
 
