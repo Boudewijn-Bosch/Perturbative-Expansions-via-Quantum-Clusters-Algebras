@@ -1,4 +1,4 @@
-# Perturbed-Alexander invariants via quantum cluster algebras
+# Perturbed Alexander invariants via quantum cluster algebras
 
 Mathematica program to derive a perturbative expansion of knot invariants
 
@@ -21,7 +21,7 @@ Boudewijn Bosch acknowledges support by the Dutch Research Council (NWO) under g
 ---
 
 ## What is this program?
-Using this program, a perturbed R-matrix is derived using the theory of quantum cluster algebras. The perturbed R-matrix can then be used to derive perturbed-Alexander polynomials using the perturbed Gaussian formalism provided in the Mathematica code due to Roland van der Veen and Dror Bar-Natan, available at https://www.rolandvdv.nl/PG/. The input is a Gauss code for a knot diagram, and the output is a perturbed-Alexander invariant.
+Using this program, a perturbed R-matrix is derived using the theory of quantum cluster algebras. The perturbed R-matrix can then be used to derive perturbed Alexander polynomials using the perturbed Gaussian formalism provided in the Mathematica code by Roland van der Veen and Dror Bar-Natan, available at https://www.rolandvdv.nl/PG/. The input is a Gauss code for a knot diagram, and the output is a perturbed Alexander invariant.
 
 ---
 
@@ -56,7 +56,7 @@ The function $\text{Pert}_{i,j}$ computes the perturbed R-matrix. This is automa
 ---
 
 ## Example Execution
-Perturbed-Alexander polynomials for the trefoil:
+Perturbed Alexander polynomials for the trefoil:
 
 ```mathematica
 Z31 = hR15 hR62 hR37 C4 hv8 hv9 hv10;
